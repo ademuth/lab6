@@ -43,7 +43,7 @@
 }
 
 #sidebar {
-	
+	background-color: red;
 }
 
 #sidebar-container {

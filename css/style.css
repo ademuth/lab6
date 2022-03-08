@@ -44,6 +44,8 @@
 
 #sidebar {
 	background-color: red;
+	height: 100%;
+	width: 20%;
 }
 
 #sidebar-container {
