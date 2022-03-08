@@ -1,9 +1,19 @@
 #main-navbar {
+	background-color: blue;
+	
+}
+
+#main-navbar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	display: block;
 	
 }
 
 #navbar-container {
-	
+	width: 100%;
+	position: relative;
 }
 
 #onpage {

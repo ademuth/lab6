@@ -1,0 +1,21 @@
+#main-navbar {
+	background-color: blue;
+	
+}
+
+#navbar-container {
+	width: 100%;
+	position: relative;
+}
+
+#onpage {
+	
+}
+
+#sidebar {
+	
+}
+
+#sidebar-container {
+	
+}
