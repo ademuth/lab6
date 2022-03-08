@@ -13,6 +13,9 @@
 
 #main-navbar ul li {
 	float: left;
+	position: relative;
+	right: 50%;
+	display: block;
 }
 
 #main-navbar ul li a {
