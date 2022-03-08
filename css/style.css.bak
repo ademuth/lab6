@@ -51,3 +51,19 @@
 #sidebar-container {
 	
 }
+
+#sidebar-container ul{
+	
+}
+
+#sidebar-container ul li {
+	
+}
+
+#sidebar-container ul li a {
+	
+}
+
+#sidebar-container ul li a:hover {
+	
+}
